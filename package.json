@@ -1,0 +1,16 @@
+{
+  "name": "lawrencedunbar-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://ldunbar3.github.io/lawrencedunbar.dev",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
