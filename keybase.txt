@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ldunbar3
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lawrencedunbar.dev
+  * I am ldunbar3 (https://keybase.io/ldunbar3) on keybase.
+  * I have a public key ASAoz6MjO7KqcMMGrcSNDxz7NUNf1uuNK1zz50NfdDOrXAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012028cfa3233bb2aa70c306adc48d0f1cfb35435fd6eb8d2b5cf3e7435f7433ab5c0a",
+      "host": "keybase.io",
+      "kid": "012028cfa3233bb2aa70c306adc48d0f1cfb35435fd6eb8d2b5cf3e7435f7433ab5c0a",
+      "uid": "ba5b5bcad9840c25b98afeb6179f4919",
+      "username": "ldunbar3"
+    },
+    "merkle_root": {
+      "ctime": 1588879753,
+      "hash": "d7641fab8c03486f293ddb535e6415e398aca0a137265d5b052b97711db3583344353d03c2323c7d150adaeca3f465c9610fd514f455c614736db860bc1ff17c",
+      "hash_meta": "71e1cbac7d96c925349ce8a911488d87c01feaad6781b1c1490e6a0b01cf7e30",
+      "seqno": 16200031
+    },
+    "service": {
+      "entropy": "2CImwlYikfNaCbW4UjO6frha",
+      "hostname": "lawrencedunbar.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1588879813,
+  "expire_in": 504576000,
+  "prev": "7bd641825052dbaf629df9f39eea6f91e4935ec22473cf660a506c2c3097a735",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKM+jIzuyqnDDBq3EjQ8c+zVDX9brjStc8+dDX3Qzq1wKp3BheWxvYWTESpcCBcQge9ZBglBS269infnznupvkeSTXsIkc89mClBsLDCXpzXEIGxZhozxoAHYh3s+bTjN1uDEj6ztXIOyoiBkDIqddOrUAgHCo3NpZ8RAtgdx0luVvczCorrHU2OUTe2DG9OOCMLQlP4a4ePVyALGXzMFNS2Kl69u/ssYsE/yauGO/M3dqmUkXXr1Ka6QA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEZ6R+aoe+SJdIIzT9/qw+Q3jJcVPMfNx47dlcVI8PW+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ldunbar3
+
+==================================================================
